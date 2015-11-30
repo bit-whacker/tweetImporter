@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Bundle-Localization: org/projectspinoza/tweetImporter/Bundle
+Bundle-Name: %OpenIDE-Module-Name
+Bundle-SymbolicName: org.projectspinoza.tweetImporter
+Bundle-Version: 1.0
+
